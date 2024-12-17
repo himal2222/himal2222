@@ -1,4 +1,4 @@
-- 👋 Hi, I’m The HImal
+- 👋 Hi, I’m The Himal
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on College Projects
